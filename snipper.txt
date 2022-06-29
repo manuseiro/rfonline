@@ -1,0 +1,6 @@
+<img class="lozad" data-src="<?php if ( has_post_thumbnail()) {the_post_thumbnail_url('home-posts');} else {?><?php bloginfo('template_url'); ?>/images/last-news-default.jpg<?php };?>" loading ="lazy">
+<style type="text/css">
+			.single-header::before{
+				background-image: url(<?php if ( has_post_thumbnail()) {the_post_thumbnail_url('single-posts');} else {}?>);
+			}
+            </style>		
