@@ -1,0 +1,23 @@
+{
+	"name": "Hospital",
+	"type": "library",
+	"description": "Tema wordpress desenvolvido para Hospital Batista Memoria que faz atendimento pelo convenio SUS e particular, sem fins lucrativo e controlado pela Convesão Bastista do Ceará. ",
+	"keywords": ["wordpress", "hospital", "saude", "memorial", "amor", "medicina", "cristao", "batista"],
+	"homepage": "https://github.com/manuseiro/hospital",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Manuel Silva",
+			"email": "whiteshadow@w-shadow.com",
+			"homepage": "https://manuseiro.github.io/portifolio/",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.6.20",
+		"ext-json": "*"
+	},
+	"autoload": {
+		"files": ["load-v5p0.php"]
+	}
+}

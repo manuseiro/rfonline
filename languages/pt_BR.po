@@ -1,0 +1,1161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Engines\n"
+"POT-Creation-Date: 2019-09-15 03:19-0300\n"
+"PO-Revision-Date: 2019-09-15 03:20-0300\n"
+"Last-Translator: Manuka\n"
+"Language-Team: SteelThemes\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: 404.php:9
+msgid "Error 404, Page not found.."
+msgstr "Erro 404, Página não encontrada.."
+
+#: 404.php:11
+msgid ""
+"Sorry, but the page you are looking for was either not found or does not "
+"exist. Try refreshing the page or click the button below to go back to the "
+"Homepage."
+msgstr ""
+"Desculpe, mas a página que você está procurando não foi encontrada ou não "
+"existe. Tente atualizar a página ou clique no botão abaixo para voltar à "
+"página Home."
+
+#: 404.php:14
+msgid "Go back Home"
+msgstr "Volte para Home"
+
+#: author.php:54 category.php:52 single.php:88
+msgid "By"
+msgstr "Por"
+
+#: comments.php:7
+msgid ""
+"This article is password protected. Enter the password to view comments."
+msgstr ""
+"Este artigo está protegido por senha. Insira a senha para visualizar os "
+"comentários."
+
+#: comments.php:33
+msgid "Leave your comment!"
+msgstr "Deixe o seu comentário!"
+
+#: comments.php:38
+msgid "Identified as"
+msgstr "Identificado como"
+
+#: comments.php:38
+msgid "Sign out of this account"
+msgstr "Sair desta conta"
+
+#: comments.php:41 page-contact.php:31
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:44 page-contact.php:34
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:47
+msgid "Site/Blog"
+msgstr "Site/Blog"
+
+#: comments.php:51 page-contact.php:48
+msgid "Message"
+msgstr "Mensagem"
+
+#: comments.php:54
+msgid "Submit Comment"
+msgstr "Enviar Comentários"
+
+#: comments.php:63
+msgid "Comments are disabled."
+msgstr "Comentários estão desabilitado."
+
+#: footer.php:10
+msgid "Follow RF Millenium"
+msgstr "Seguir RF Millenium"
+
+#: footer.php:25
+msgid "Server"
+msgstr "Servidor"
+
+#: footer.php:37
+msgid "Help"
+msgstr "Ajuda"
+
+#: footer.php:49
+msgid "Ranking"
+msgstr "Ranking"
+
+#: footer.php:61
+msgid "Other Links"
+msgstr "Outros Links"
+
+#: footer.php:63 header.php:61
+msgid "Downloads"
+msgstr "Baixar"
+
+#: footer.php:64
+msgid "Translation"
+msgstr "Tradução"
+
+#: footer.php:65
+msgid "Updates"
+msgstr "Atualizações"
+
+#: footer.php:66
+msgid "Sitemap"
+msgstr "Mapa do site"
+
+#: footer.php:75
+msgid ""
+"is a trademark of CCR Inc. These terms and all related materials, logos, and "
+"images are copyright"
+msgstr ""
+"é uma marca registrada da CCR Inc. Esses termos e todos os materiais, "
+"logotipos e imagens relacionados são copyright"
+
+#: footer.php:76
+msgid "This site is in no way associated with or endorsed by CCR Inc"
+msgstr "Este site não está de forma alguma associado ou aprovado pelo CCR Inc"
+
+#: functions.php:92 functions_bkp.php:82
+msgid "Menu Header"
+msgstr "Menu Cabeçalho"
+
+#: functions.php:93 functions_bkp.php:83
+msgid "Menu Right"
+msgstr "Menu Direito"
+
+#: functions.php:94 functions_bkp.php:84
+msgid "Menu Sidebar"
+msgstr "Menu Barra Lateral"
+
+#: functions.php:95 functions_bkp.php:85
+msgid "Menu Server"
+msgstr "Menu Server"
+
+#: functions.php:96 functions_bkp.php:86
+msgid "Menu Help"
+msgstr "Menu Ajuda"
+
+#: functions.php:97 functions_bkp.php:87
+msgid "Menu Statistic"
+msgstr "Menu Estatística"
+
+#: functions.php:98 functions_bkp.php:88
+msgid "Menu Footer Copy"
+msgstr "Menu Rodape Copyright"
+
+#: functions.php:99 functions_bkp.php:89
+msgid "Menu Language"
+msgstr "Menu Idioma"
+
+#: functions.php:100 functions_bkp.php:90
+msgid "Menu Races"
+msgstr "Menu Raças"
+
+#: functions.php:111 functions_bkp.php:101
+msgid "Add New Question"
+msgstr "Adicionar Nova Pergunta"
+
+#: functions.php:112 functions_bkp.php:102
+msgid "Edit Question"
+msgstr "Editar Pergunta"
+
+#: functions.php:113 functions_bkp.php:103
+msgid "New Question"
+msgstr "Nova Pergunta"
+
+#: functions.php:114 functions_bkp.php:104
+msgid "View Question"
+msgstr "Visualizar Pergunta"
+
+#: functions.php:115 functions_bkp.php:105
+msgid "Search Question"
+msgstr "Procurar Pergunta"
+
+#: functions.php:116 functions_bkp.php:106
+msgid "No Questions Found"
+msgstr "Nenhum Pergunta Encontrado"
+
+#: functions.php:117 functions_bkp.php:107
+msgid "No Questions found in the Recycle Bin"
+msgstr "Nenhum Pergunta encontrado na Lixeira"
+
+#: functions.php:143 functions_bkp.php:133
+msgid "Add New Rule"
+msgstr "Adicionar Nova Regra"
+
+#: functions.php:144 functions_bkp.php:134
+msgid "Edit Rule"
+msgstr "Editar Regra"
+
+#: functions.php:145 functions_bkp.php:135
+msgid "New Rule"
+msgstr "Nova Regra"
+
+#: functions.php:146 functions_bkp.php:136
+msgid "View Rule"
+msgstr "Visualizar Regra"
+
+#: functions.php:147 functions_bkp.php:137
+msgid "Search Rule"
+msgstr "Procurar Regra"
+
+#: functions.php:148 functions_bkp.php:138
+msgid "No Rules Found"
+msgstr "Nenhum Regra Encontrado"
+
+#: functions.php:149 functions_bkp.php:139
+msgid "No Rules found in the Recycle Bin"
+msgstr "Nenhum Regra encontrado na Lixeira"
+
+#: functions.php:175 functions_bkp.php:165
+msgid "Add New Infor"
+msgstr "Adicionar Nova Config"
+
+#: functions.php:176 functions_bkp.php:166
+msgid "Edit Infor"
+msgstr "Edita Config"
+
+#: functions.php:177 functions_bkp.php:167
+msgid "New Infor"
+msgstr "Nova Config"
+
+#: functions.php:178 functions_bkp.php:168
+msgid "View Infor"
+msgstr "Visualizar Config"
+
+#: functions.php:179 functions_bkp.php:169
+msgid "Search Infor"
+msgstr "Procurar Config"
+
+#: functions.php:180 functions_bkp.php:170
+msgid "No Infors Found"
+msgstr "Nenhum Config Encontrada"
+
+#: functions.php:181 functions_bkp.php:171
+msgid "No Infors found in the Recycle Bin"
+msgstr "Nenhum Config encontrada na Lixeira"
+
+#: functions.php:208 functions_bkp.php:198
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:233 functions.php:234 functions.php:235 functions_bkp.php:223
+#: functions_bkp.php:224 functions_bkp.php:225
+msgid "<li>Archive of "
+msgstr "<li>Arquivo de "
+
+#: functions.php:236 functions_bkp.php:226
+msgid "<li>Author Archive "
+msgstr "<li>Arquivo do Autor "
+
+#: functions.php:237 functions_bkp.php:227
+msgid "<li>Blog Archive "
+msgstr "<li>Arquivo do Blog "
+
+#: functions.php:238 functions_bkp.php:228
+msgid "<li>Search results "
+msgstr "<li>Resultados da pesquisa "
+
+#: functions.php:254 functions_bkp.php:244
+msgid "<i class=\"fas fa-long-arrow-alt-left\"></i> Previous"
+msgstr "<i class=\"fas fa-long-arrow-alt-left\"></i> Anterior"
+
+#: functions.php:255 functions_bkp.php:245
+msgid "Next <i class=\"fas fa-long-arrow-alt-right\"></i>"
+msgstr "Próxima <i class=\"fas fa-long-arrow-alt-right\"></i>"
+
+#: header.php:40
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"//"
+"browsehappy.com/\" target=\"_black\">upgrade your browser</a> to improve "
+"your experience."
+msgstr ""
+"Você está usando um navegador <strong> desatualizado </strong>. Por favor <a "
+"href=\"//browsehappy.com/\" target=\"_black\">atualize seu navegador </a> "
+"para melhorar sua experiência."
+
+#: header.php:54
+msgid "en"
+msgstr "br"
+
+#: header.php:57
+msgid "English (US)"
+msgstr "Inglês (US)"
+
+#: header.php:58
+msgid "Portuguese (BR)"
+msgstr "Português (BR)"
+
+#: header.php:62 header.php:95
+msgid "Log In"
+msgstr "Entrar"
+
+#: header.php:63
+msgid "Support"
+msgstr "Suporte"
+
+#: header.php:96 index.php:21
+msgid "Create Account"
+msgstr "Criar Conta"
+
+#: index.php:8
+msgid "I'll be back, soon the server will be back. Wait..."
+msgstr "I'll be back, em breve o servidor estará de volta. Aguarde..."
+
+#: index.php:9
+msgid "Are you ready for the best PvP? Soon, wait..."
+msgstr "Está preparado para o melhor PvP? Em breve, aguarde..."
+
+#: index.php:10
+msgid "Sign up for the Beta"
+msgstr "Inscreva-se para o Beta"
+
+#: index.php:22
+msgid "Create your account for free and play"
+msgstr "Crie sua conta gratuitamente e jogue"
+
+#: index.php:32
+msgid "Download Now"
+msgstr "Baixar Agora"
+
+#: index.php:33
+msgid "Download and Play Now"
+msgstr "Faça o download e jogue agora"
+
+#: index.php:43
+msgid "Make a Donation"
+msgstr "Faça uma Doação"
+
+#: index.php:44
+msgid "Collaborate with the Server"
+msgstr "Colabore com o Servidor"
+
+#: index.php:60
+msgid "Server Status"
+msgstr "Status do Servidor"
+
+#: index.php:61
+msgid "Real time status of our server"
+msgstr "Status em tempo real do nosso servidor"
+
+#: index.php:68
+msgid "Game"
+msgstr "Jogo"
+
+#: index.php:69 index.php:78
+msgid "checked in the last 60 min"
+msgstr "verificado nos últimos 60 minutos"
+
+#: index.php:77
+msgid "Client"
+msgstr "Cliente"
+
+#: index.php:86
+msgid "Players"
+msgstr "Jogadores"
+
+#: index.php:87
+msgid "Checked in the last 1440 min"
+msgstr "Verificado nos últimos 1440 min"
+
+#: index.php:111
+msgid "See all News"
+msgstr "Veja todas as Notícias"
+
+#: index.php:124
+msgid "Game Requirements"
+msgstr "Requisitos do Jogo"
+
+#: index.php:125 page-download.php:148
+msgid "Minimum requirements needed to run the game"
+msgstr "Requisitos mínimos necessários para executar o jogo"
+
+#: index.php:133 page-download.php:156
+msgid "Operational Systems:"
+msgstr "Sistemas Operacionais:"
+
+#: index.php:134 page-download.php:157
+msgid ""
+"Microsoft Windows 7 Service Pack 1 or later with latest updates, hotfixes, "
+"and service packs installed"
+msgstr ""
+"Microsoft Windows 7 Service Pack 1 ou superior com atualizações mais "
+"recentes, hotfixes e service packs instalados"
+
+#: index.php:144 page-download.php:178
+msgid "Disk Space:"
+msgstr "Espaço em Disco:"
+
+#: index.php:145 page-download.php:179
+msgid ""
+"Minimum of 7 GB of free disk space (additional space for executable and "
+"patch updates)"
+msgstr ""
+"Mínimo de 7 GB de espaço livre em disco (espaço adicional para atualizações "
+"executáveis e atualizações)"
+
+#: index.php:155 page-download.php:189
+msgid "CPU:"
+msgstr "Processador:"
+
+#: index.php:156 page-download.php:190
+msgid "Intel Pentium 4/AMD Athlon 64 processor or faster"
+msgstr "Processador Intel Pentium 4/AMD Athlon 64 ou mais rápido"
+
+#: index.php:166 page-download.php:200
+msgid "Graphics Card:"
+msgstr "Placa de Vídeo:"
+
+#: index.php:167 page-download.php:201
+msgid ""
+"nVIDIA Geforce FX Series, nVIDIA Geforce 6 or over, ATI Radeon 9500, ATI "
+"Radeon X700 or over"
+msgstr ""
+"nVIDIA Geforce FX Series, nVIDIA Geforce 6 ou superior, ATI Radeon 9500, ATI "
+"Radeon X700 ou superior"
+
+#: index.php:177 page-download.php:167
+msgid "RAM:"
+msgstr "Memória:"
+
+#: index.php:178 page-download.php:168
+msgid "2 GB of RAM or more"
+msgstr "2 GB de RAM ou mais"
+
+#: index.php:188 page-download.php:211
+msgid "Driver Updates:"
+msgstr "Atualizações de Driver:"
+
+#: index.php:189 page-download.php:212
+msgid ""
+"Download the most current version of the most current driver for your "
+"graphics card. Keep in mind there may be different versions of the driver "
+"depending on your OS. "
+msgstr ""
+"Baixe a versão mais atual do driver para sua placa de video. Tenha em mente "
+"que pode haver diferentes versões do driver, dependendo do seu sistema "
+"operacional. "
+
+#: index.php:202
+msgid "Come play the best private server of rfonline"
+msgstr "Venha jogar o melhor servidor privado de rf online"
+
+#: index.php:203
+msgid ""
+"Invite your friends to feel nostalgia again, in playing a good rf server "
+"online. Focused on PVP to facilitate players who do not have much time to "
+"lose."
+msgstr ""
+"Convide seus amigos para sentir a nostalgia novamente, jogando um bom "
+"servidor de rf online. Focado em PVP para facilitar os jogadores que não têm "
+"muito tempo a perder."
+
+#: index.php:204
+msgid "Sign Up"
+msgstr "Cadastre-se"
+
+#: index.php:215
+msgid "Have questions about the Server?"
+msgstr "Tem dúvidas sobre o Servidor?"
+
+#: index.php:216
+msgid "We'll explain everything right to you."
+msgstr "A gente te explica tudo direitinho."
+
+#: index.php:242 page-faq.php:50 page-rules.php:51 page-server.php:42
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: index.php:243 page-faq.php:51 page-rules.php:52
+msgid "Sorry, there are still no frequently asked questions (F.A.Q)."
+msgstr "Desculpe, ainda não existem perguntas frequentes (F.A.Q)."
+
+#: index.php:251
+msgid "Remove all doubts"
+msgstr "Tirar todas as dúvidas"
+
+#: index.php:251
+msgid "Remove all Doubts"
+msgstr "Tirar todas as Dúvidas"
+
+#: page-about.php:45 page-race-acc.php:47 page-race-bell.php:47
+#: page-race-cora.php:47
+msgid "Explore Available Classes"
+msgstr "Explorar Classes Disponíveis"
+
+#: page-about.php:50 page-classe-acc-ranger.php:34
+#: page-classe-acc-specialist.php:34 page-classe-acc-warrior.php:89
+#: page-classe-bell-mago.php:45 page-classe-bell-ranger.php:40
+#: page-classe-bell-specialist.php:45 page-classe-bell-warrior.php:70
+#: page-classe-cora-mage.php:34 page-classe-cora-ranger.php:34
+#: page-classe-cora-specialist.php:34 page-classe-cora-warrior.php:34
+#: page-race-acc.php:52 page-race-bell.php:52 page-race-cora.php:52
+msgid "Warrior"
+msgstr "Guerreiro"
+
+#: page-about.php:58 page-classe-acc-ranger.php:42
+#: page-classe-acc-specialist.php:42 page-classe-acc-warrior.php:97
+#: page-classe-bell-mago.php:53 page-classe-bell-ranger.php:48
+#: page-classe-bell-specialist.php:53 page-classe-bell-warrior.php:78
+#: page-classe-cora-mage.php:42 page-classe-cora-ranger.php:42
+#: page-classe-cora-specialist.php:42 page-classe-cora-warrior.php:42
+#: page-race-acc.php:60 page-race-bell.php:60 page-race-cora.php:60
+msgid "Ranger"
+msgstr "Ranger"
+
+#: page-about.php:66 page-classe-acc-ranger.php:50
+#: page-classe-acc-specialist.php:50 page-classe-acc-warrior.php:105
+#: page-classe-bell-mago.php:69 page-classe-bell-ranger.php:64
+#: page-classe-bell-specialist.php:69 page-classe-bell-warrior.php:94
+#: page-classe-cora-mage.php:58 page-classe-cora-ranger.php:58
+#: page-classe-cora-specialist.php:58 page-classe-cora-warrior.php:58
+#: page-race-acc.php:68 page-race-bell.php:76 page-race-cora.php:76
+msgid "Specialist"
+msgstr "Especialista"
+
+#: page-classe-acc-ranger.php:28 page-classe-acc-specialist.php:28
+#: page-classe-acc-warrior.php:83
+msgid "All Accretia Classes"
+msgstr "Todas as Casses Accretia"
+
+#: page-classe-acc-warrior.php:26 page-classe-acc-warrior.php:47
+#: page-classe-acc-warrior.php:58
+msgid "Destroyer"
+msgstr "Destruidor"
+
+#: page-classe-acc-warrior.php:28 page-classe-acc-warrior.php:37
+msgid "Level 30 Class Advancement"
+msgstr "Avanço de Classe de Nível 30"
+
+#: page-classe-acc-warrior.php:29 page-classe-acc-warrior.php:38
+#: page-classe-acc-warrior.php:47 page-classe-acc-warrior.php:58
+#: page-classe-acc-warrior.php:69
+msgid "Required:"
+msgstr "Necessário:"
+
+#: page-classe-acc-warrior.php:29 page-classe-acc-warrior.php:38
+msgid "None"
+msgstr "Nenhum"
+
+#: page-classe-acc-warrior.php:30
+msgid ""
+"Destroyer units function as the main force for the Accretian army. They are "
+"very competent in melee combat and are the most powerful warriors among the "
+"three races on Novus."
+msgstr ""
+"Destruidor funciona como a principal força para o exército Accretian. Eles "
+"são muito competentes em combate corpo a corpo e são os guerreiros mais "
+"poderosos entre as três raças em Novus."
+
+#: page-classe-acc-warrior.php:35 page-classe-acc-warrior.php:58
+#: page-classe-acc-warrior.php:69
+msgid "Gladius"
+msgstr "Gladiador"
+
+#: page-classe-acc-warrior.php:39
+msgid ""
+"Gladius units utilize one-hand weapons with the unique Accretian shields, "
+"which are significantly more powerful than those of other races. Gladius "
+"class therefore prioritize shield techniques."
+msgstr ""
+"Os Gladiadores utilizam armas de uma mão com os escudos exclusivos de "
+"Acrecianos, que são significativamente mais poderosos que os de outras "
+"raças. A classe Gladiador, portanto, prioriza as técnicas de escudo."
+
+#: page-classe-acc-warrior.php:44
+msgid "Punisher"
+msgstr "Justiceiro"
+
+#: page-classe-acc-warrior.php:46 page-classe-acc-warrior.php:57
+#: page-classe-acc-warrior.php:68
+msgid "Level 40 Class Advancement"
+msgstr "Avanço de Classe de Nível 40"
+
+#: page-classe-acc-warrior.php:48
+msgid ""
+"Punisher units have the capacity to identify opponents’ weak points and use "
+"skills to ensnare enemies."
+msgstr ""
+"Os Justiceiros têm a capacidade de identificar os pontos fracos dos "
+"oponentes e usar habilidades para prender os inimigos."
+
+#: page-classe-acc-warrior.php:54
+msgid "Dreadnought"
+msgstr "Demolidor"
+
+#: page-classe-acc-warrior.php:58
+msgid "or"
+msgstr "ou"
+
+#: page-classe-acc-warrior.php:59
+msgid "Assaulter units equalize potent offensive and defensive capacity."
+msgstr "Demolidores equalizar potente capacidade ofensiva e defensiva."
+
+#: page-classe-acc-warrior.php:65
+msgid "Warder"
+msgstr "Mercenário"
+
+#: page-classe-acc-warrior.php:70
+msgid ""
+"Built to withstand Force assaults, Warders are structured with innovative "
+"frames that enable more fficient use of chargers."
+msgstr ""
+"Construídos para suportar ataques de força, os Mercenário são estruturados "
+"com quadros inovadores que permitem o uso mais eficiente de carregadores."
+
+#: page-classe-bell-mago.php:39 page-classe-bell-ranger.php:34
+#: page-classe-bell-specialist.php:39 page-classe-bell-warrior.php:64
+msgid "All Bellato Classes"
+msgstr "Todas as Casses Bellato"
+
+#: page-classe-bell-mago.php:61 page-classe-bell-ranger.php:56
+#: page-classe-bell-specialist.php:61 page-classe-bell-warrior.php:86
+#: page-classe-cora-mage.php:50 page-classe-cora-ranger.php:50
+#: page-classe-cora-specialist.php:50 page-classe-cora-warrior.php:50
+#: page-race-bell.php:68 page-race-cora.php:68
+msgid "Mage"
+msgstr "Mago"
+
+#: page-classe-bell-warrior.php:26
+msgid "Myrmidon"
+msgstr ""
+
+#: page-classe-bell-warrior.php:32
+msgid "Sentry"
+msgstr ""
+
+#: page-classe-bell-warrior.php:38
+msgid "Berserker"
+msgstr ""
+
+#: page-classe-bell-warrior.php:44
+msgid "Warden"
+msgstr "Mercenário"
+
+#: page-classe-bell-warrior.php:50
+msgid "Sentinel"
+msgstr ""
+
+#: page-classe-cora-mage.php:28 page-classe-cora-ranger.php:28
+#: page-classe-cora-specialist.php:28 page-classe-cora-warrior.php:28
+msgid "All Cora Classes"
+msgstr "Todas as Casses Cora"
+
+#: page-contact.php:38
+msgid "Subject Matter"
+msgstr "Assunto"
+
+#: page-contact.php:39
+msgid "Donation"
+msgstr "Doações"
+
+#: page-contact.php:40
+msgid "Report/Hacks"
+msgstr "Denúncia/Hacks"
+
+#: page-contact.php:41
+msgid "Bugs/Errors"
+msgstr "Bugs/Erros"
+
+#: page-contact.php:42
+msgid "Downloads/Link"
+msgstr "Downloads/link"
+
+#: page-contact.php:43
+msgid "Account/Lockout"
+msgstr "Conta/Bloqueio"
+
+#: page-contact.php:44
+msgid "Site/Translation"
+msgstr "Site/Tradução"
+
+#: page-contact.php:51
+msgid "Send Ticket"
+msgstr "Enviar Ticket"
+
+#: page-donation.php:31 page-donation.php:69 page-donation.php:107
+#: page-donation.php:145
+msgid "Bonus 01"
+msgstr "Bonus 01"
+
+#: page-donation.php:32 page-donation.php:70 page-donation.php:108
+#: page-donation.php:146
+msgid "All items are found in game."
+msgstr "Todos os itens são encontrados no jogo."
+
+#: page-donation.php:58 page-donation.php:96 page-donation.php:134
+#: page-donation.php:172
+msgid ""
+"Players who make donations are rewarded for items mentioned above, having a "
+"validity of Four Months (04 months)."
+msgstr ""
+"Os jogadores que fazem doações são recompensados pelos itens mencionados "
+"acima, com validade de quatro meses (04 meses)."
+
+#: page-donation.php:61 page-donation.php:99 page-donation.php:137
+#: page-donation.php:175
+msgid "Donate"
+msgstr "Fazer Doação"
+
+#: page-download-thank-you.php:15
+msgid "Almost finished!"
+msgstr "Quase terminando!"
+
+#: page-download-thank-you.php:16
+msgid ""
+"Follow these <strong>3 easy steps</strong> to complete your <strong>RF "
+"Online</strong> installation."
+msgstr ""
+"Siga estes <strong>3 passos</strong> para completar a instalação do seu "
+"<strong>RF Online</strong>."
+
+#: page-download-thank-you.php:19
+msgid ""
+"<strong>Note:</strong> If your download did not start automatically, please "
+"<a href=\"//cdn.rf-millenium.org/rfonline_millenium_setup.exe\">click here</"
+"a>."
+msgstr ""
+"<strong>Observação:</strong> Se o seu download não começar automaticamente, "
+"por favor <a href=\"//cdn.rf-millenium.org/rfonline_millenium_setup.exe"
+"\">clique aqui</a>."
+
+#: page-download-thank-you.php:27
+msgid "Save the RF Online file"
+msgstr "Salve o arquivo RF Online"
+
+#: page-download-thank-you.php:28
+msgid "Click \"Save File\" when prompted."
+msgstr "Clique em \"Salvar arquivo\" assim que estiver pronto."
+
+#: page-download-thank-you.php:29 page-download-thank-you.php:49
+msgid "-en"
+msgstr "-pt-br"
+
+#: page-download-thank-you.php:37
+msgid "Open the RF Online file to install"
+msgstr "Abra o arquivo de instalação do RF Online"
+
+#: page-download-thank-you.php:38
+msgid ""
+"Double-click the file in the list of downloaded files. If the list is not "
+"open, press Ctrl+J to show it."
+msgstr ""
+"Clique duas vezes no arquivo na lista de arquivos baixados. Se a lista não "
+"estiver aberta, pressione para mostra-la."
+
+#: page-download-thank-you.php:47
+msgid "Follow setup instructions"
+msgstr "Siga as instruções de instalação"
+
+#: page-download-thank-you.php:48
+msgid "Click the button in the installer window to begin installation."
+msgstr "Clique sobre o botão na janela de instalação para começar a instalar."
+
+#: page-download.php:27
+msgid ""
+"The RFM Launcher version is now available for download and installation. The "
+"new RFM Launcher will offer a convenient hub for starting, updating and "
+"playing RF Millenium. Click the download button below."
+msgstr ""
+"A versão do RFM Launcher está agora disponível para download e instalação. O "
+"novo RFM Launcher oferecerá um hub conveniente para iniciar, atualizar e "
+"executar o RF Millenium. Clique no botão de download abaixo."
+
+#: page-download.php:28
+msgid "Download"
+msgstr "Baixar"
+
+#: page-download.php:31
+msgid "Please visit this page on your PC to download the game installer."
+msgstr "Visite esta página no seu PC para baixar o instalador do jogo."
+
+#: page-download.php:39
+msgid ""
+"<p>With an updated look and feel, the new RFM Launcher will offer these "
+"benefits:</p>\n"
+"                        <ul>\n"
+"                            <li>Improved support for installing, updating "
+"and launching RF Millenium.</li>\n"
+"                            <li>Convenient access to the official website, "
+"forums and customer support.</li>\n"
+"                            <li>Immediate access to the latest RF Millenium "
+"news.</li>\n"
+"                            <li>Direct feed to watch RF Millenium Twitch "
+"streams and YouTube videos directly from the launcher.</li>\n"
+"                        </ul>"
+msgstr ""
+"<p>Com uma aparência atualizada, o novo RFM Launcher oferecerá os seguintes "
+"benefícios:</p>\n"
+"                        <ul>\n"
+"                            <li>Suporte aprimorado para instalação, "
+"atualização e lançamento do RF Millenium.</li>\n"
+"                            <li>Acesso conveniente ao site oficial, fóruns e "
+"suporte ao cliente.</li>\n"
+"                            <li>Acesso imediato às últimas notícias do RF "
+"Millenium.</li>\n"
+"                            <li>Feed direto para assistir a streamers RF "
+"Millenium Twitch e vídeos do YouTube diretamente do launcher.</li>\n"
+"                        </ul>"
+
+#: page-download.php:57
+msgid "FAQ"
+msgstr "FAQ"
+
+#: page-download.php:147
+msgid "System Requirements"
+msgstr "Requisitos de Sistema"
+
+#: page-race-acc.php:54 page-race-acc.php:62 page-race-acc.php:70
+#: page-race-bell.php:54 page-race-bell.php:62 page-race-bell.php:70
+#: page-race-bell.php:78 page-race-cora.php:54 page-race-cora.php:62
+#: page-race-cora.php:70 page-race-cora.php:78
+msgid "View Class"
+msgstr "Visualizar Classe"
+
+#: page-race.php:15
+msgid "Explore By"
+msgstr "Explorar por"
+
+#: page-race.php:29
+msgid "Empire Accretia"
+msgstr "Império Acreciano"
+
+#: page-race.php:30
+msgid ""
+"The scientists of this race have learned to transfer the consciousness to "
+"robotic bodies — making the Empire warriors truly indestructible. This "
+"bloodthirsty nation desires — to wipe out every single living creature out "
+"there. So its most brilliant minds create innovative arms, which are beyond "
+"compare."
+msgstr ""
+"Os cientistas desta raça aprenderam a colocar a consciência de seres vivos "
+"em corpos de robôs — isso fez os representantes do Império verdadeiramente "
+"indestrutíveis. O propósito desse povo sanguinário é a destruição de todas "
+"as coisas vivas. Para isso as melhores mentes criam uma arma inovadora sem "
+"igual."
+
+#: page-race.php:31 page-race.php:39 page-race.php:49
+msgid "View Race"
+msgstr "Visualizar Raça"
+
+#: page-race.php:36
+msgid "Union Bellato"
+msgstr "Federação Bellato"
+
+#: page-race.php:38
+msgid ""
+"Bellatians are a highly intelligent and innovative nation. The home planet "
+"of the Union has high gravity, so the inhabitants are of short stature. They "
+"roamed space in search for resources, came to Novus and started the "
+"colonization focusing on mining and resource extraction."
+msgstr ""
+"Representantes desse povo são muito inteligentes e se dão bem com a "
+"tecnologia. No planeta natal da Federação havia uma forte gravidade, por "
+"isso todas as pessoas de lá são de baixa estatura. Viajando em busca de "
+"novos recursos, eles voaram para Novus e começaram a colonizá-lo, "
+"concentrando-se na extração de minério e materiais úteis."
+
+#: page-race.php:47
+msgid "Holy Alliance Cora"
+msgstr "Sagrada Aliança Cora"
+
+#: page-race.php:48
+msgid ""
+"The philosophy of Corites is based on devoted faith in the dark god Decem "
+"who charged his people with protection and preservation of the planet. They "
+"use resources of Novus to strengthen the Alliance and to spread their "
+"religion to the furthest corners of the Galaxy."
+msgstr ""
+"A filosofia da raça é baseada na crença fanática no deus das trevas Daisem, "
+"que ordenou a seus seguidores que protegessem o planeta. Os Coritas usam os "
+"recursos de Novus para fortalecer a Aliança e espalhar sua religião aos "
+"cantos mais remotos da galáxia."
+
+#: page-server.php:43
+msgid "Sorry, the server settings have not yet been listed."
+msgstr "Desculpe, ainda não foram listadas as configurações para o servidor."
+
+#: sidebar-classes-race.php:1
+msgid "Select a Race"
+msgstr "Selecione uma Raça"
+
+#: sidebar-classes-race.php:7
+msgid "Accrecia"
+msgstr "Acreciano"
+
+#: sidebar-classes-race.php:15 sidebar-races.php:5
+msgid "Bellato"
+msgstr "Bellato"
+
+#: sidebar-classes-race.php:23 sidebar-races.php:6
+msgid "Cora"
+msgstr "Cora"
+
+#: sidebar-races.php:4
+#, fuzzy
+#| msgid "Accrecia"
+msgid "Accretia"
+msgstr "Acreciano"
+
+#: single.php:19
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: single.php:19
+msgid "on"
+msgstr "em"
+
+#: single.php:19
+msgid "F j, Y \\a\\t g\\hi A"
+msgstr "j \\d\\e F \\d\\e Y \\á\\s g\\hi A"
+
+#~ msgid "by"
+#~ msgstr "Por"
+
+#~ msgid "Play Free Now"
+#~ msgstr "Jogue Agora"
+
+#~ msgid "Mystic"
+#~ msgstr "Mago"
+
+#~ msgid ""
+#~ "How do I know I'm downloading the correct Patch, Auto Update, or Game "
+#~ "client?"
+#~ msgstr ""
+#~ "Como sei que estou baixando o Patch, Auto Update ou cliente correto do "
+#~ "Jogo?"
+
+#~ msgid ""
+#~ "If the names are RFMillenium_Patch vX.X.X, RFMillenium_AutoUpdate or "
+#~ "RFMillenium_Client.exe, you are downloading the correct installation "
+#~ "files."
+#~ msgstr ""
+#~ "Se os nomes forem RFMillenium_Patch vX.X.X, RFMillenium_AutoUpdate ou "
+#~ "RFMillenium_Client.exe,  você estará baixando os arquivos de instalação "
+#~ "correto."
+
+#~ msgid "Sorry, there are no defined rules yet."
+#~ msgstr "Desculpe, não há regras definidas ainda."
+
+#~ msgid "Log in to GameCP"
+#~ msgstr "Entrar no GameCP"
+
+#~ msgid "Create your Account"
+#~ msgstr "Crie sua Conta"
+
+#~ msgid "Sign In"
+#~ msgstr "Entrar"
+
+#~ msgid "Current server situation"
+#~ msgstr "Situação atua do Servidor"
+
+#~ msgid "Follow on social networks"
+#~ msgstr "Acompanhe nas redes sociais"
+
+#~ msgid "Sorry, there are no Frequently Asked Questions (FAQ) yet."
+#~ msgstr "Desculpe, ainda não existem perguntas frequentes (F.A.Q)."
+
+#~ msgid "Please do not load this page directly. Thank you!"
+#~ msgstr "Por favor, não carregue esta página diretamente. Obrigado!"
+
+#~ msgid "We already have 1 comment for &ldquo;%1$s&rdquo;. Leave yours :)"
+#~ msgstr "Já temos 1 comentário sobre &ldquo;%1$s&rdquo;. Deixe o seu :)"
+
+#~ msgid "One thought on &ldquo;%1$s&rdquo;"
+#~ msgstr "Um pensamento em &ldquo;%1$s&rdquo;"
+
+#~ msgid "Load more"
+#~ msgstr "Carregar mais"
+
+#~ msgid "Read More"
+#~ msgstr "Leia Mais"
+
+#~ msgid ""
+#~ "Server focused on pvp, XP on high, items on gamecp, safe zone on pvp "
+#~ "maps..."
+#~ msgstr ""
+#~ "Servidor focado em pvp, XP em alta, itens em gamecp, zona segura em mapas "
+#~ "pvp..."
+
+#~ msgid "Server with rates in 300x"
+#~ msgstr "Servidor com taxas em 300x"
+
+#~ msgid "See more"
+#~ msgstr "Ler mais sobre"
+
+#~ msgid "Sorry, there is no news yet to be informed at this time."
+#~ msgstr "Desculpe, ainda não existe noticias para ser informada no momento."
+
+#~ msgid "News"
+#~ msgstr "Notícias"
+
+#~ msgid "Latest news, updates and events"
+#~ msgstr "Ultimas noticias, atualizações e eventos"
+
+#~ msgid "Why Donate?"
+#~ msgstr "Por que Donatar?"
+
+#~ msgid ""
+#~ "Non-profit, donations collected are distributed among website hosting, "
+#~ "gamecp, hacker protection, dedicated server and our developer team. With "
+#~ "your donation you will be helping the server to stay online and updated."
+#~ msgstr ""
+#~ "Sem fins lucrativos, as doações coletadas são distribuídas entre "
+#~ "Hospedagem de sites, GameCP, hacker Protection, servidor dedicado e nossa "
+#~ "equipe de desenvolvedores. Com a sua doação você estará ajudando o "
+#~ "servidor a ficar online e atualizado."
+
+#~ msgid "The player is required to make some kind of donation to the server?"
+#~ msgstr "O jogador é obrigado a fazer algum tipo doação para o servidor?"
+
+#~ msgid ""
+#~ "The player is not required to make any kind of donation to the server."
+#~ msgstr "O jogador não é obrigado fazer qualquer tipo de doação ao servidor."
+
+#~ msgid "Player contributing to the server does not receive punishment?"
+#~ msgstr "Jogador que contribui com o servidor não recebe punição?"
+
+#~ msgid ""
+#~ "The player who contributes the server through donation, suffers "
+#~ "punishment in the same way as the other players without any preference."
+#~ msgstr ""
+#~ "O jogador que contribui com o servidor através de doação, sofre punições "
+#~ "do mesmo modo que os demais jogadores sem qualquer tipo de preferência."
+
+#~ msgid "What are donation Bonuses?"
+#~ msgstr "O que são bônus de doação?"
+
+#~ msgid ""
+#~ "It's the way the server found it to thank you for your help by offering a "
+#~ "package of items (Bonus Donation). All Items are found in the game and "
+#~ "can be acquired by playing normally on the server in PB's, Mob's and "
+#~ "NPC's."
+#~ msgstr ""
+#~ "É a forma que o servidor encontrou para agradecer a sua ajuda, oferecendo "
+#~ "um pacote de itens (Bônus de Doação). Todos os Itens são encontrado no "
+#~ "jogo podendo ser adiquiridos jogando normalmente no servidor nos PBs, "
+#~ "mobs e NPCs."
+
+#~ msgid "Items purchased through donation have validity?"
+#~ msgstr "Os itens adquiridos através da doação têm validade?"
+
+#~ msgid ""
+#~ "Items purchased through donation have an expiration date (04 months). "
+#~ "After this period, any problems that occur with server or your account, "
+#~ "the player will not be refunded."
+#~ msgstr ""
+#~ "Os itens adquiridos através da doação têm uma data de validade (04 "
+#~ "meses). Após este período, quaisquer problemas que ocorram com o servidor "
+#~ "ou sua conta, o jogador não será reembolsado."
+
+#~ msgid "Do donors not receive punishment?"
+#~ msgstr "Os doadores não recebem punição?"
+
+#~ msgid ""
+#~ "Player who contributes the server through Donation also receives "
+#~ "punishment in the same way as the other players without any preference."
+#~ msgstr ""
+#~ "Jogador que contribui com o servidor através da doação também recebe "
+#~ "punição da mesma forma que os outros jogadores, sem qualquer preferência."
+
+#~ msgid "Common questions"
+#~ msgstr "Perguntas Frequentes"
+
+#~ msgid "Play our Golden Age server Now, 100% PVP!"
+#~ msgstr "Jogue o nosso servidor Golden Age Agora, 100% PVP!"
+
+#~ msgid "The Return of the Best RF Online PvP Server.."
+#~ msgstr "O retorno do melhor servidor PVP de RF Online..."
+
+#~ msgid ""
+#~ "Create an account, Download the client and call your friends to play "
+#~ "along with you!"
+#~ msgstr ""
+#~ "Crie uma conta, baixe o cliente e chame seus amigos para jogar junto com "
+#~ "você !"
+
+#~ msgid "Become the race leader"
+#~ msgstr "Torne-se o líder da Raça"
+
+#~ msgid ""
+#~ "Run the political race, win the elections and get special bonuses and "
+#~ "rights. Becoming a patriarch you can change the war!"
+#~ msgstr ""
+#~ "Entre na Corrida Politica, ganhe as eleições e ganhe bônus e direitos "
+#~ "especiais. Tornando-se um Lider, você pode mudar a guerra!"
+
+#~ msgid "Statistic"
+#~ msgstr "Estatística"
+
+#~ msgid "Which side will you choose?"
+#~ msgstr "Que lado você vai escolher?"
+
+#~ msgid "Make your choice, and let the best race win."
+#~ msgstr "Façam suas escolhas, e que vença a melhor raça."
+
+#~ msgid "Know each breed"
+#~ msgstr "Conheça cada raça"
+
+#~ msgid "Related"
+#~ msgstr "Relacionados"
+
+#~ msgid "English"
+#~ msgstr "Inglês"
+
+#~ msgid "Server Game"
+#~ msgstr "Servidor "
+
+#, fuzzy
+#~| msgid "Server"
+#~ msgid "Server Word"
+#~ msgstr "Servidor"
+
+#~ msgid "Join the Millenium community"
+#~ msgstr "Junte-se à comunidade Millenium"
+
+#~ msgid "Menu Footer 1"
+#~ msgstr "Menu Rodape 1"
+
+#~ msgid "Menu Footer 2"
+#~ msgstr "Menu Rodape 2"
+
+#~ msgid "Menu Footer 3"
+#~ msgstr "Menu Rodape 3"
+
+#~ msgid "Developers"
+#~ msgstr "Desenvolvedores"
+
+#~ msgid "We couldn't find the page.."
+#~ msgstr "Nós não conseguimos encontrar a página.."
+
+#~ msgid "About"
+#~ msgstr "Sobre"
+
+#~ msgid "Guide"
+#~ msgstr "Guia"
+
+#~ msgid "Register"
+#~ msgstr "Registre-se"
+
+#~ msgid "GB"
+#~ msgstr "BR"
+
+#~ msgid "English GB"
+#~ msgstr "Português BR"
+
+#~ msgid "EN"
+#~ msgstr "BR"
