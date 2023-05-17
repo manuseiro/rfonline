@@ -1,10 +1,10 @@
 /*
-Theme Name: RF Millenium
-Theme URL: http://dev.jangadabr.com/rfmillenium
+Theme Name: RF Online
+Theme URL: https://github.com/manuseiro/rfonline
 Description: Template for the RF Online Private Server site.
 Author: Manue Silva
-Author URL: https://instagram.com/manuseiro
-Version: 1.6
+Author URL: https://github.com/manuseiro/
+Version: v0.11.22
 Tags: responsive, page-builder, drag&drop, clean, modern, corporate, multi-purpose, multi-color, business, clean, mobile
 */
 /*1.RESET*/
@@ -27,7 +27,23 @@ main {
     position: relative;
     width: 100%;
 }
-
+/*SCROLLBAR*/
+::-webkit-scrollbar{
+    width: 20px;
+    height: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(
+        to botton,
+        #ff850a,
+        #ff3474
+    );
+    border-radius: 50px;
+}
+::-webkit-scrollbar-track{
+    background: #474747;
+}
+/*LOZAD*/
 .lozad {
     background-color: transparent;
 }

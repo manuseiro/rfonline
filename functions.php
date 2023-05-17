@@ -37,7 +37,7 @@ function my_plugin_update_checker_setting() {
 	$myUpdateChecker->setAuthentication('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');
 
 	// (Opcional) Set the branch that contains the stable release.
-	$myUpdateChecker->setBranch('stable-branch-name');
+	$myUpdateChecker->setBranch('main');
 }
 
 add_action( 'admin_init', 'my_plugin_update_checker_setting' );

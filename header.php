@@ -75,7 +75,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="<?php bloginfo('home'); ?>">
-                        <img class="brand-img lozad" data-src="<?php bloginfo('template_url'); ?>/images/logo.svg" alt="RF Millenium">
+                        <img class="brand-img lozad" data-src="<?php bloginfo('template_url'); ?>/images/logo.svg" alt="<?php bloginfo('name');?>">
                     </a>
                     </div>
                 
@@ -92,7 +92,7 @@
                             );
                         ?>
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="<?php bloginfo('home'); ?>/users/sign_in"  type="button" class="btn btn-trans-dark"><?php _e( "Log In", 'rfonline' );?></a></li>
+                            <li><a href="<?php bloginfo('home'); ?>/users/sign_in"  type="button" class="btn btn-trans-dark"><?php _e( "My Account", 'rfonline' );?></a></li>
                             <li><a href="<?php bloginfo('home'); ?>/users/sign_in#register-pane" type="button" class="btn btn-yellow"><?php _e( "Create Account", 'rfonline' );?></a></li>
                         </ul>
                     </div>
