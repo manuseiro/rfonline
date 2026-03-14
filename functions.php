@@ -34,7 +34,7 @@ function my_plugin_update_checker_setting() {
 	);
 	
 	// (Opcional) If you're using a private repository, specify the access token like this:
-	$myUpdateChecker->setAuthentication('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');
+	$myUpdateChecker->setAuthentication('SEU_GITHUB_TOKEN'); // Adicione seu ID TOKEN Github aqui.
 
 	// (Opcional) Set the branch that contains the stable release.
 	$myUpdateChecker->setBranch('main');
