@@ -33,84 +33,84 @@ O tema fornece páginas prontas para:
 
 # 📂 Estrutura do Projeto
 
-rfonline-main
-│
-├── css
-│ ├── bootstrap.min.css
-│ ├── animate.min.css
-│ └── languages.min.css
-│
-├── js
-│ ├── plugins.js
-│ ├── wow.min.js
-│ └── languages.min.js
-│
-├── images
-│ ├── logos
-│ ├── races
-│ ├── classes
-│ └── backgrounds
-│
-├── languages
-│ ├── rfonline.pot
-│ ├── pt_BR.po
-│ └── pt_BR.mo
-│
-├── includes
-│ └── wp_bootstrap_navwalker.php
-│
-├── update
-│ └── Plugin Update Checker
-│
+```text
+rfonline/
+├── assets/                     # (sugestão: renomear 'images' + 'css' + 'js' para seguir padrão WP moderno)
+│   ├── css/
+│   │   ├── bootstrap.min.css
+│   │   ├── animate.min.css
+│   │   └── languages.min.css
+│   ├── js/
+│   │   ├── plugins.js
+│   │   ├── wow.min.js
+│   │   └── languages.min.js
+│   └── images/
+│       ├── logos/
+│       ├── races/
+│       ├── classes/
+│       └── backgrounds/
+├── languages/
+│   ├── rfonline.pot
+│   ├── pt_BR.po
+│   └── pt_BR.mo
+├── includes/
+│   └── wp_bootstrap_navwalker.php
+├── update/
+│   └── (Plugin Update Checker files...)
 ├── functions.php
 ├── header.php
 ├── footer.php
 ├── style.css
-└── theme.json
+├── theme.json
+├── screenshot.png              # (recomendado manter na raiz)
+├── index.php                   # (se existir)
+├── readme.txt                  # (recomendado para repositórios WP no WordPress.org)
+└── LICENSE
+```
 ---
 
 # 📄 Páginas Personalizadas
 
-O tema inclui várias páginas específicas para servidores RF Online:
+O tema inclui várias páginas específicas para servidores RF Online.
 
-### Informações do servidor
+## Informações do servidor
 
-page-server.php
-page-statistics.php
+- page-server.php
+- page-statistics.php
 
 ## Download
 
-page-download.php
-page-download-thank-you.php
+- page-download.php
+- page-download-thank-you.php
 
-### Guias
+## Guias
 
-page-guide.php
-page-faq.php
-page-rules.php
+- page-guide.php
+- page-faq.php
+- page-rules.php
 
-### Raças
+## Raças
 
-page-race.php
-page-race-acc.php
-page-race-bell.php
-page-race-cora.php
+- page-race.php
+- page-race-acc.php
+- page-race-bell.php
+- page-race-cora.php
 
-### Classes
+## Classes
 
-page-classe-acc-ranger.php
-page-classe-acc-specialist.php
-page-classe-acc-warrior.php
+- page-classe-acc-ranger.php
+- page-classe-acc-specialist.php
+- page-classe-acc-warrior.php
 
-page-classe-bell-mago.php
-page-classe-bell-ranger.php
-page-classe-bell-specialist.php
-page-classe-bell-warrior.php
+- page-classe-bell-mago.php
+- page-classe-bell-ranger.php
+- page-classe-bell-specialist.php
+- page-classe-bell-warrior.php
 
-page-classe-cora-mage.php
-page-classe-cora-ranger.php
-page-classe-cora-specialist.php
-page-classe-cora-warrior.php
+- page-classe-cora-mage.php
+- page-classe-cora-ranger.php
+- page-classe-cora-specialist.php
+- page-classe-cora-warrior.php
 
 ---
 
@@ -124,10 +124,11 @@ page-classe-cora-warrior.php
 
 # 📦 Instalação
 
-1. Baixe o tema:
+1. Clone o repositório
 
+```bash
 git clone https://github.com/manuseiro/rfonline.git
-
+```
 2. Copie para a pasta de temas do WordPress:
 
 wp-content/themes/
@@ -177,10 +178,10 @@ Você pode customizar:
 - links de redes sociais
 
 Principais arquivos para customização:
-style.css
-header.php
-footer.php
-functions.php
+- style.css
+- header.php
+- footer.php
+- functions.php
 
 
 ---
